@@ -5,7 +5,7 @@
 This website brings to light theories that are brought about by users.
 ## Setup/Installation Requirements
 *  clone this repository
-* open "animal-shelter.html" in your browser
+* open "news-article.html" in your browser
 ## Known Bugs
 None
 ## Technologies Used
@@ -36,4 +36,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Copyright (c) 2021 
-  
+ 
